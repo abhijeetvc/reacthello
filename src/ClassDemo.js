@@ -19,7 +19,6 @@ export default class ClassDemo extends React.Component{
                 <h1>Class Component!!!</h1>
                 <button type='button' onClick={this.handleChange}>Change</button>
                 <p>Value is: {this.state.value}</p>
-                
             </div>
         )
     }
