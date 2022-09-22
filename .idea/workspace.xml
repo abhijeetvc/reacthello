@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="React State using class components">
-      <change beforePath="$PROJECT_DIR$/src/ClassDemo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassDemo.js" afterDir="false" />
+    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="State Examples">
+      <change afterPath="$PROJECT_DIR$/src/PropsDemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PropsExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StateExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/StateExample.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663255883602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="State Examples">
+      <created>1663689880790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663689880790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +76,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="React State" />
     <MESSAGE value="React State using class components" />
-    <option name="LAST_COMMIT_MESSAGE" value="React State using class components" />
+    <MESSAGE value="State Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="State Examples" />
   </component>
 </project>

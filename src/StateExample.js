@@ -1,8 +1,12 @@
 import React from 'react'
 
+// props : information/properties passed from one component to another component.
+//         props are immutable/cannot change
+
 function StateExample(){
 
     const userObj={
+        id:'',
         firstName:'',
         lastName:''
     }
@@ -37,17 +41,27 @@ function StateExample(){
 
             </form>
 
-            <ul>
-                {
-                    userList.map((u,index)=>(
-                        <div key={index}>
-                             <li>{u.firstName+" | "+u.lastName}</li>
-                            <button onClick={()=>editUser(index)}>Edit</button>
-                        </div>
-                    ))
-                }
-            </ul>
+            <TableData userList={userList} message="Hello React"/>
         </div>
+    )
+}
+
+function TableData(props){
+    return(
+        <div>
+            <p>Message : {props.message}</p>
+             <ul>
+        {
+            props.userList.map((usr)=>(
+                <div key={usr.id}>
+                     <li>{usr.firstName+" | "+usr.lastName}</li>
+                    {/* <button onClick={()=>editUser(usr.id)}>Edit</button> */}
+                </div>
+            ))
+        }
+    </ul>
+        </div>
+       
     )
 }
 
