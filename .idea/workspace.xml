@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="State Examples">
-      <change afterPath="$PROJECT_DIR$/src/PropsDemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PropsExample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StateExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/StateExample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="State Examples and Props">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663689880790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="State Examples and Props">
+      <created>1663860554441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663860554441</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +81,7 @@
     <MESSAGE value="React State" />
     <MESSAGE value="React State using class components" />
     <MESSAGE value="State Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="State Examples" />
+    <MESSAGE value="State Examples and Props" />
+    <option name="LAST_COMMIT_MESSAGE" value="State Examples and Props" />
   </component>
 </project>

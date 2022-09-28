@@ -2,7 +2,6 @@
 function PropsExample(){
 
     return(
-
         <div>
             <h1>Props Example</h1>
             <PropsChild message="Hello Props!!!"/>

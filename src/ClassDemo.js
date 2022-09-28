@@ -5,7 +5,13 @@ export default class ClassDemo extends React.Component{
     constructor(){
         super()
         this.state={
-            value:0
+            value:0,
+            userObj:{
+                id:'',
+                name:'',
+                city:''
+            },
+            userList:[]
         }
     }
 
