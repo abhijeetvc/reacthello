@@ -11,6 +11,8 @@ import PropsExample from './PropsExample'
 import LifeCycleMethods from './LifeCycleMethods';
 import LifecycleDemo from './LifecycleDemo';
 import UseEffectDemo from './UseEffectDemo';
+import CallbackEvent from './CallbackEvent';
+import ConditionalRender from './ConditionalRender';
 
 // Where to render?
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -18,7 +20,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // WHat has to be rendered?
 root.render(
   <div>
-    <UseEffectDemo/>
+    <ConditionalRender/>
     {/* <ClassDemo1/> */}
   </div> 
 );

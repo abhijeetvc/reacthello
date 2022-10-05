@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="Life cycle methods">
+    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="UseEffect">
+      <change afterPath="$PROJECT_DIR$/src/CallbackEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalRender.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demojs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664378083279</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="UseEffect">
+      <created>1664552667438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664552667438</updated>
+    </task>
+    <task id="LOCAL-00007" summary="UseEffect">
+      <created>1664552677551</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664552677551</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +108,7 @@
     <MESSAGE value="State Examples" />
     <MESSAGE value="State Examples and Props" />
     <MESSAGE value="Life cycle methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Life cycle methods" />
+    <MESSAGE value="UseEffect" />
+    <option name="LAST_COMMIT_MESSAGE" value="UseEffect" />
   </component>
 </project>
