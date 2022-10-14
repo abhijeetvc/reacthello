@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="UseEffect">
-      <change afterPath="$PROJECT_DIR$/src/CallbackEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalRender.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demojs.js" afterDir="false" />
+    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="React Router">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CallbackEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/CallbackEvent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wkreactredux" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/himsrecode" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664552677551</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Conditional Render and Callback event handling">
+      <created>1664947909434</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664947909434</updated>
+    </task>
+    <task id="LOCAL-00009" summary="React Router">
+      <created>1665589091598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665589091598</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +123,8 @@
     <MESSAGE value="State Examples and Props" />
     <MESSAGE value="Life cycle methods" />
     <MESSAGE value="UseEffect" />
-    <option name="LAST_COMMIT_MESSAGE" value="UseEffect" />
+    <MESSAGE value="Conditional Render and Callback event handling" />
+    <MESSAGE value="React Router" />
+    <option name="LAST_COMMIT_MESSAGE" value="React Router" />
   </component>
 </project>
