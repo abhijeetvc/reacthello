@@ -1,7 +1,23 @@
+
+import React from 'react'
+
 function Demo1(){
+
+  const message="Welcome"
+
+   const[display,setDisplay]=React.useState(false)
+  // let display=false
+
+  const showMessage=()=>{
+     setDisplay(!display)
+    //display=!display
+  }
+
     return(
       <div>
-        <h2>Demo2 Content!!!</h2>
+        {display ?  <h1>Message : {message}</h1> : ""}
+       
+        <button type="button" onClick={showMessage}>Show</button>
       </div>
     )
   }

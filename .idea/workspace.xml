@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="React Router">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CallbackEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/CallbackEvent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="924d19e8-f25b-4c8c-9e6a-1f5e2154d31f" name="Changes" comment="React Router with form" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665589091598</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="React Router with form">
+      <created>1665760632687</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665760632687</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +126,7 @@
     <MESSAGE value="UseEffect" />
     <MESSAGE value="Conditional Render and Callback event handling" />
     <MESSAGE value="React Router" />
-    <option name="LAST_COMMIT_MESSAGE" value="React Router" />
+    <MESSAGE value="React Router with form" />
+    <option name="LAST_COMMIT_MESSAGE" value="React Router with form" />
   </component>
 </project>
