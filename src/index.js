@@ -15,6 +15,7 @@ import CallbackEvent from './CallbackEvent';
 import ConditionalRender from './ConditionalRender';
 import App1 from './App1';
 import UseContextDemo from './UseContextDemo';
+import UseMemoDemo from './UseMemoDemo';
 
 // Where to render?
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -22,7 +23,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // WHat has to be rendered?
 root.render(
   <div>
-    <UseContextDemo/>
+    <UseMemoDemo/>
     {/* <ClassDemo1/> */}
   </div> 
 );
